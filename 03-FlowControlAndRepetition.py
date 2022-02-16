@@ -14,7 +14,7 @@
 
 ################################
 ##
-##  TABLE OF CONTENT
+##  TABLE OF CONTENT.
 ##
 ##  01. Introduction to Python
 ##  02. Sequences and Collections
