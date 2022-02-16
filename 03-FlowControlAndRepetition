@@ -103,7 +103,7 @@ s1 is s2                            # True! (only one string, like in Java:
                                     # strings are immutable -> shared)
 
 s3 = 'h' + 'i'                      # creates another string 'hi'
-s1 == s3                            # same value
+s1 == s3                            # same value.
 s1 is s3                            # same identity again(!)
 
 s4 = ''.join(['h', 'i'])            # creates another string 'hi'
