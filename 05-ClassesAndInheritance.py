@@ -21,7 +21,7 @@
 ##  03. Flow Control and Repetition
 ##  04. Functions and Lambda Expressions
 ##  05. Classes and Inheritance: attributes, functions, scope, inheritance,
-##            reflection, abstract classes, multiple inheritance, interfaces
+##            reflection, abstract classes, multiple inheritance, interfaces.
 ##  06. Exceptions and File I/O
 ##  07. Higher-Order Functions and Comprehensions
 ##  08. Iterators/Generators and Lazy Data Types
